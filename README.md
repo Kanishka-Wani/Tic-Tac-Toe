@@ -1,5 +1,5 @@
 # 🎮Tic Tac Toe
-![logo](game.jpg)
+![logo](tictactoe.jpg)
 A fun and modern twist on the classic Tic Tac Toe game — built in Python using Tkinter.
 
 ✨ Features:
