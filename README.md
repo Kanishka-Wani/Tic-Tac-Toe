@@ -1,2 +1,10 @@
-# Tic-Tac-Toe
-🎮 A stylish Tic Tac Toe game built with Python and Tkinter — featuring a ✨ glowing interface, 🏆 live scoreboard, 🔁 restart button,. Simple, fun, and fully GUI-based!
+# 🎮Tic Tac Toe
+![logo](game.jpg)
+A fun and modern twist on the classic Tic Tac Toe game — built in Python using Tkinter.
+
+✨ Features:
+- Neon-style glowing UI
+- Live scoreboard
+- Sound feedback on each move
+- Restart anytime with one click
+- No external libraries needed
